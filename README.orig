@@ -23,6 +23,10 @@ Installation
             pyf ~/.vim/vimmp/main.py
         endif
 
+    Then specify what server you are using, "xmms2" or "mpd". (Although
+    the script will try to guess, but it's better to set it manually.)
+        let g:vimmp_server_type="xmms2"
+
     Also, add following map into .vimrc
 
         nmap <silent> <leader>x :py vimmp_toggle()<cr>

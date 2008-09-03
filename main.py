@@ -5,8 +5,8 @@
 File: main.py
 Author: Xin Wang
 Email: wxyzin at gmail.com
-Version: 0.4
-Date: 2008-09-03
+Version: 0.1.1
+Date: 2008-09-04
 
 This plugin is provided under BSD-ish license.
 '''
